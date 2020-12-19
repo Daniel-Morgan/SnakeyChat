@@ -21,7 +21,7 @@ Mute users
 https://dev.to/zeyu2001/build-a-chatroom-app-with-python-44fa
 
 
-## SQL
+## SQL: IDE DBeaver
 
 DataBase      | Tables
 ------------- | -------------
