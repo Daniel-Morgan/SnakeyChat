@@ -5,6 +5,8 @@ A form based chat room. Users can create chat rooms, and invite users in.
 
 ## GUI
 
+Library - TKinter
+
 ## Client-Server Architecture
 
 
